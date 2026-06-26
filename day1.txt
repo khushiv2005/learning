@@ -1,0 +1,2 @@
+My name is khushi
+This is my first code from vs code
