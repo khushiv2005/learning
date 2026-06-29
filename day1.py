@@ -6,5 +6,3 @@ num = 10
 # print (num )
 
 int(input("Enter a number: "))
-
-
